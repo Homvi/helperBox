@@ -1,4 +1,4 @@
-1. #copy to the terminal for live coplile scss to css
+1. #copy to the terminal for live coplile scss to css (sass needs to be installed)
 
 sass --watch ./src/style.scss ./dist/style.css
 
